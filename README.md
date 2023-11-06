@@ -9,7 +9,7 @@ Update continuously the accepted papers from the top conferences in AI
 |ICCV|2023.3.8|2023.9.30|https://openaccess.thecvf.com/ICCV2023|
 |ACL|2022.12.15|2023.7.9|https://2023.aclweb.org/program/accepted_main_conference/|
 |ICML|2023.1.26|2023.7.23|https://dblp.uni-trier.de/db/conf/icml/icml2023.html <br> https://openreview.net/group?id=ICML.cc/2023/Conference|
-|NeurIPS|2023.5.17|2023.11.10||
+|NeurIPS|2023.5.17|2023.11.10|https://openreview.net/group?id=NeurIPS.cc/2023/Conference|
 |KDD|2023.2.2|2023.8.6|https://dblp.uni-trier.de/db/conf/kdd/kdd2023.html|
 |AAAI|2022.8.8|2023.2.7|https://ojs.aaai.org/index.php/AAAI/index|
 |WWW|2022.10.6|2023.4.30|https://archives.iw3c2.org/www2023/program/accepted-papers/|
